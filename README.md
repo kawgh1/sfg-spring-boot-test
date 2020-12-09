@@ -1,6 +1,6 @@
 # This is a forked repo for practicing Spring Boot testing
-Circle CI badge
-[![CircleCI](https://circleci.com/gh/kawgh1/sfg-spring-boot-test.svg?style=svg)](https://circleci.com/gh/kawgh1/sfg-spring-boot-test)
+- Circle CI badge
+    - [![CircleCI](https://circleci.com/gh/kawgh1/sfg-spring-boot-test.svg?style=svg)](https://circleci.com/gh/kawgh1/sfg-spring-boot-test)
 
 # Notes
 
